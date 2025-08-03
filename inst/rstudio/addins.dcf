@@ -1,0 +1,4 @@
+Name: Render Quarto to HTML and PDF
+Description: Render the current .qmd file to both HTML and PDF.
+Binding: render_both_quarto_formats
+Interactive: false

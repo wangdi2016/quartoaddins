@@ -1,0 +1,9 @@
+Package: quartoaddin
+Type: Package
+Title: Quarto Render Addin
+Version: 0.0.1
+Author: Difei Wang
+Maintainer: Difei Wang <your.email@example.com>
+Description: An RStudio addin to render both HTML and PDF from Quarto.
+License: MIT
+Encoding: UTF-8
