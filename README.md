@@ -5,6 +5,7 @@ Render a quarto file to PDF and html
 
 ### make sure quarto package installed
 ```
+install.packages("remotes")
 install.packages("quarto")
 ```
 ### check if quarto package works
